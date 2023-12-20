@@ -10,8 +10,6 @@
 <img src="https://www.codefactor.io/repository/github/sgkens/psparagraph/badge"/>
 </a>
 <!--coverage-->
-[<img src="https://img.shields.io/coverallsCoverage/github/sgkens/psparagraph?branch=main"/>]()
-
 <a href="https://coveralls.io/github/sgkens/psparagraph">
 <img src="https://img.shields.io/coverallsCoverage/github/sgkens/psparagraph?branch=main"/>
 </a>
