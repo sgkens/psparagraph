@@ -3,15 +3,17 @@
 
 <!--license-->
 <a href="https://github.com/sgkens/psparagraph/">
-  <img src="https://img.shields.io/github/license/sgkens/psparagraph"/>
+<img src="https://img.shields.io/github/license/sgkens/psparagraph"/>
 </a> 
 <!--Code-Factor-->
 <a href="https://www.codefactor.io/repository/github/sgkens/psparagraph">
-  <img src="https://www.codefactor.io/repository/github/sgkens/psparagraph/badge"/>
+<img src="https://www.codefactor.io/repository/github/sgkens/psparagraph/badge"/>
 </a>
 <!--coverage-->
+[<img src="https://img.shields.io/coverallsCoverage/github/sgkens/psparagraph?branch=main"/>]()
+
 <a href="https://coveralls.io/github/sgkens/psparagraph">
-  <img src="https://img.shields.io/coverallsCoverage/github/sgkens/psparagraph?branch=main"/>
+<img src="https://img.shields.io/coverallsCoverage/github/sgkens/psparagraph?branch=main"/>
 </a>
 
 ---
