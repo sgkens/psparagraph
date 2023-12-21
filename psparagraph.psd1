@@ -26,8 +26,8 @@
     # Company or vendor of this module
     CompanyName       = 'davilion'
 
-    # Copyright statement for this module
-    Copyright         = '2023 davilion. All rights reserved.'
+    # Copyright statement for this module1
+    Copyright         = '2023 Garvey K. Snow . All rights reserved.'
 
     # Description of the functionality provided by this module
     Description       = 'psparagraph is a function that generates readable text by indenting it, similating the effect of a paragraph.'
